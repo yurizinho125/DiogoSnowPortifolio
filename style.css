@@ -647,7 +647,7 @@ footer {
   margin: 0;
   padding: 0;
   top: 60px;        /* distância abaixo do botão */
-  right: 10px;      /* encostado na direita */
+  right: 0px;      /* encostado na direita */
   background: #212121;
   border-radius: 10px;
   display: none;    /* escondido por padrão */
@@ -1254,4 +1254,5 @@ h1{
 
   footer .icon-content .filled{
     margin: auto;
+
   }
